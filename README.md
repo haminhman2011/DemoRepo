@@ -7,6 +7,7 @@ To obtain a multi-level menu system as above, you can follow the steps as stars:
 1/
 Create an HTML menu system:
 Often in programming, the system will automatically generate html menu, here is the html simulation for a multi-level menu
+{% highlight Bash shell scripts linenos%}
 <div>
       <ul>
         <li>
@@ -37,7 +38,7 @@ Often in programming, the system will automatically generate html menu, here is 
         </li>
    </ul>
 </div>
-
+{% endhighlight %}
 2/CSS on menu: 
 <style type="text/css">
 .menu
